@@ -1,0 +1,103 @@
+{
+ "versions": [
+  {
+   "id": "MSB",
+   "name": "Majority Standard Bible",
+   "language": "en",
+   "file": "versions/MSB.json",
+   "bytes": 4353254,
+   "sha256": "a091625927ceb6904924955a846c3462d7bf7677f7d79b96671b531a31e44b90",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=engmsb"
+  },
+  {
+   "id": "YLT",
+   "name": "Young's Literal Translation",
+   "language": "en",
+   "file": "versions/YLT.json",
+   "bytes": 4635137,
+   "sha256": "b3af3b9513eeab4bd6afecb1fff7131e8f1ec5d9a774b5c1b7a45143430a97a2",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=engylt"
+  },
+  {
+   "id": "DBY",
+   "name": "Darby Translation",
+   "language": "en",
+   "file": "versions/DBY.json",
+   "bytes": 4570186,
+   "sha256": "3ffd772dfe69702018d780c09b5deb81db8d16257c3b006c2f88804e32464e47",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=engDBY"
+  },
+  {
+   "id": "OST",
+   "name": "La Sainte Bible (Ostervald)",
+   "language": "fr",
+   "file": "versions/OST.json",
+   "bytes": 4753933,
+   "sha256": "f2a09885f0e200047e239c57d1655d5e2835b357568c0cf34cff9f98d2182ec9",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=fra_fob"
+  },
+  {
+   "id": "L1912",
+   "name": "Lutherbibel 1912",
+   "language": "de",
+   "file": "versions/L1912.json",
+   "bytes": 4555800,
+   "sha256": "0554b143abe43aa42f90486f4ee71e1245f901c3d55012391f8ebbb63e49cbd7",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=deu1912"
+  },
+  {
+   "id": "ELB",
+   "name": "Unrevidierte Elberfelder",
+   "language": "de",
+   "file": "versions/ELB.json",
+   "bytes": 4794849,
+   "sha256": "8c5aa6f716749c610289d3f4b675221bae5019bbf0e9d11da74f6eac21173069",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=deuelo"
+  },
+  {
+   "id": "RIV",
+   "name": "Riveduta 1927",
+   "language": "it",
+   "file": "versions/RIV.json",
+   "bytes": 4647255,
+   "sha256": "ab0f0ce2c2b31d661ef632dd95db5483e38f55b188047b1052ad8ba8f61b10c4",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=ita1927"
+  },
+  {
+   "id": "BPM",
+   "name": "Bíblia Portuguesa Mundial",
+   "language": "pt",
+   "file": "versions/BPM.json",
+   "bytes": 4547719,
+   "sha256": "e1278c53892b520278ca107b16adb61df5fa744eceb1e1c474867114bbbfe074",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=porbrbsl"
+  },
+  {
+   "id": "NLD1917",
+   "name": "De Heilige Schrift 1917",
+   "language": "nl",
+   "file": "versions/NLD1917.json",
+   "bytes": 4793896,
+   "sha256": "6c54bee5377689e4e8cbddf9e39b6cd8bd88a77d08de0d971c5d4ff455586ad2",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=nld"
+  },
+  {
+   "id": "VIE1934",
+   "name": "Kinh Thánh 1934",
+   "language": "vi",
+   "file": "versions/VIE1934.json",
+   "bytes": 5580657,
+   "sha256": "540ba564f383047926eef5c36a8ea671f6a47c3554b7cac6c56f92fa7367db1a",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=vie1934"
+  },
+  {
+   "id": "JFB",
+   "name": "フリーダム・バイブル",
+   "language": "ja",
+   "file": "versions/JFB.json",
+   "bytes": 5561885,
+   "sha256": "8cd261a9f48aba207563b59886142094e78c7e995099e8f97fc9aeb17e82de5e",
+   "licensePage": "https://ebible.org/Scriptures/details.php?id=jpnm"
+  }
+ ]
+}
